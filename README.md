@@ -7,7 +7,7 @@ Herein, we present a Spatially-aware Machine Learning Optimization Framework tha
   - Streamlined Bayesian Optimizer
   - Local Outlier Factor threshold
   - Eigenvector Spatial Filtering
-  - 5-fold spatial block cross-validation
+  - 5-fold Spatial Block Cross-validation
 - Creation of  a comprehensive forest structure index (FSI) from GEDI multi-metric model predictions
 - First spatially-explicit GEDI-derived forest structure wall-to-wall mapping effort specific to PNG
 
