@@ -4,7 +4,7 @@ Herein, we present a Spatially-aware Machine Learning Optimization Framework tha
 # Paper Highlights
 - Introduction of a mean GEDI canopy height metric
 - Development of spatially-aware LightGBM optimization framework
-- Incorporation of Eigenvector Spatial Filtering with 5-fold spatial block cross-validation
+- Incorporation of Local Outlier Factor threshold and Eigenvector Spatial Filtering with 5-fold spatial block cross-validation
 - Creation of  a comprehensive forest structure index (FSI) from GEDI multi-metric model predictions
 - First spatially-explicit GEDI-derived forest structure wall-to-wall mapping effort specific to PNG
 
