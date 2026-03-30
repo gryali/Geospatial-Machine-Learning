@@ -2,7 +2,7 @@
 Herein, we present a Spatially-aware Machine Learning Optimization Framework that incorporates Eigenvector Spatial Filtering and 5-fold Spatial Block Cross-validation to model four distinct GEDI-derived forest structure characteristics. To model the GEDI structural metrics, a spatially-aware LightGBM
 
 # Paper Highlights
-- Introduction of a mean GEDI canopy height metric
+- Introduction of a mean GEDI canopy height metric (RHm)
 - Development of spatially-aware LightGBM optimization framework
   - Streamlined Bayesian Optimizer
   - Local Outlier Factor threshold
