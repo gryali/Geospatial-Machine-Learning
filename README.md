@@ -1,5 +1,5 @@
-# Geospatial-Machine-Learning
-Herein, a Spatially-aware Machine Learning Optimization Framework is presented which implementas LightGBM in a streamlined Bayesian optimization incorporating Eigenvector Spatial Filtering with 5-fold Spatial Block Cross-validation to model four distinct GEDI-derived forest structure characteristics accross a tropical lancape.
+# Spatial-Aware Machine Learning
+Herein, a spatially-aware machine learning optimization framework is presented which implements LightGBM in a streamlined Bayesian optimization incorporating Eigenvector Spatial Filtering with 5-fold Spatial Block Cross-validation to model four distinct GEDI-derived forest structure characteristics accross a tropical lancape.
 
 # Paper Highlights
 - Introduction of a mean GEDI canopy height metric (RHm)
