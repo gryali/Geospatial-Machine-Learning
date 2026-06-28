@@ -1,5 +1,5 @@
 # Spatial-Aware Machine Learning
-Herein, a spatially-aware machine learning optimization framework is presented which implements LightGBM in a streamlined Bayesian optimization incorporating Eigenvector Spatial Filtering with 5-fold Spatial Block Cross-validation to model four distinct GEDI-derived forest structure characteristics accross a tropical lancape in Papua New Guinea (PNG). For demonstration purposes, only canopy height (RHm) and canopy cover (TCC) modelling are provided here.
+Herein, a spatially-aware machine learning optimization framework is presented which implements LightGBM in a streamlined Bayesian optimization framework that incorporates Local Outlier Factor thresholding and Eigenvector Spatial Filtering with 5-fold Spatial Block Cross-validation to model four distinct GEDI-derived forest structure characteristics accross a tropical lancape in Papua New Guinea (PNG). For demonstration purposes, only canopy height (RHm) and canopy cover (TCC) modelling are provided here.
 
 # Paper Highlights
 - Introduction of a mean GEDI canopy height metric (RHm)
