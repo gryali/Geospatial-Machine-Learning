@@ -16,3 +16,4 @@ For demonstration purposes, only canopy height (RHm) and canopy cover (TCC) mode
 - Creation of  a comprehensive forest structure index (FSI) from GEDI multi-metric model predictions
 - First spatially-explicit GEDI-derived forest structure wall-to-wall mapping effort specific to PNG
 
+
