@@ -1,3 +1,5 @@
+[GISRS_Paper_Workflow.tif](https://github.com/user-attachments/files/29534444/GISRS_Paper_Workflow.tif)
+
 # Spatial-Aware Machine Learning
 Herein, a spatially-aware LightGBM optimization framework is presented which implements a streamlined Bayesian optimization (Optuna) workflow that incorporates Local Outlier Factor thresholding and Eigenvector Spatial Filtering with 5-fold Spatial Block Cross-validation to model four distinct GEDI-derived forest structure characteristics using multi-source earth observation (EO) data accross a tropical lancape in Papua New Guinea (PNG). The multi-source EO data is an integration of Sentinel-1 SAR, Sentinel-2 optical imagery, and AlphaEarth Satellite Embeddings with climatic (TerraClimate: precipitation and temperature) and Topographic (Copernicus FABDEM: DEM, slope, and aspect) datasets. 
 
