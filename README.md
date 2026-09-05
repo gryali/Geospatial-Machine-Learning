@@ -1,4 +1,4 @@
-<img width="2752" height="1504" alt="SA-LGBM_Infograph#_" src="https://github.com/user-attachments/assets/3a87a259-85e1-4e5e-a482-2e7610d2a0d6" />
+<!-- <img width="2752" height="1504" alt="SA-LGBM_Infograph#_" src="https://github.com/user-attachments/assets/3a87a259-85e1-4e5e-a482-2e7610d2a0d6" /> -->
 
 <img width="2752" height="1504" alt="Spatially-Aware_Forest_Structure_Modelling_Pipelin" src="Spatially-Aware_Forest_Structure_Modelling_Pipeline.png" />
 
