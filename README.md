@@ -13,7 +13,7 @@ For demonstration purposes, only canopy height (RHm) and canopy cover (TCC) mode
 - Development of Spatially-Aware LightGBM optimization framework (with nested Bayesian Optimizer)
   - Local Outlier Factor thresholding
   - Eigenvector Spatial Filtering (Moran's I)
-  - 5-fold Spatial Block Cross-validation
+  - Buffered 5-fold Spatial Block Cross-validation
 - Creation of a comprehensive forest structure index (FSI) from GEDI multi-metric model predictions
 - First spatially-explicit GEDI-derived forest structure wall-to-wall mapping effort specific to PNG
 
