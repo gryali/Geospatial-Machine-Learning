@@ -10,7 +10,7 @@ For demonstration purposes, only canopy height (RHm) and canopy cover (TCC) mode
 
 # Highlights
 - Introduction of a mean GEDI canopy height metric (RHm) to minimize inter-percentile sensitivity 
-- Development of Spatially-Aware LightGBM optimization framework (with nested Bayesian Optimizer)
+- Development of Spatially-Aware LightGBM (SA-LGBM) optimization framework (with nested Bayesian Optimizer)
   - Local Outlier Factor thresholding
   - Eigenvector Spatial Filtering (Moran's I)
   - Buffered 5-fold Spatial Block Cross-validation
