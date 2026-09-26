@@ -9,7 +9,7 @@ Herein, a Spatially-Aware LightGBM (SA-LGBM) optimization framework is presented
 For demonstration purposes, only canopy height (RHm) and canopy cover (TCC) modelling are provided here from which spatial predictions are derived. Comparing these canopy metrics and their predicted values with the PNG National Forest Inventory (NFI) data via a stratified validation approach we created the first GEDI-derived spatially-explicit forest structure wall-to-wall mapping specific to PNG. Ultimately, a comprehensive forest structure index (FSI) is synthesized from the GEDI multi-metric performance-weighted summation of these forest structure spatial predictions. The FSI acts as an operational landscape metric representing multi-dimensional tropical forest structure variability and complexity. It is defined as a forest structure baseline suitable for forest change analysis and aboveground biomass dynamics monitoring. 
 
 # Highlights
-- Introduction of a mean GEDI canopy height metric (RHm)
+- Introduction of a mean GEDI canopy height metric (RHm) to minimize inter-percentile sensitivity 
 - Development of Spatially-Aware LightGBM optimization framework (with nested Bayesian Optimizer)
   - Local Outlier Factor thresholding
   - Eigenvector Spatial Filtering (Moran's I)
